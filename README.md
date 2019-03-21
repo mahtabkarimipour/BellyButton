@@ -1,2 +1,2 @@
 # BellyButton API Project
-Based On Flask and deployed to heroku.
+Based On Flask API and deployed to heroku.
